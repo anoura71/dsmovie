@@ -1,5 +1,5 @@
 import { Star } from "components/Star";
-import { getFills } from "utils/getFills";
+import { getFills } from "utils/functions";
 
 import "./styles.css";
 
